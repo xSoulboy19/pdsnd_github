@@ -1,17 +1,15 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+The data was created by using Bike share date for 3 different cities.
 
 ### Project Title
-Replace the Project Title
+Exploring US Bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+The main idea of this project is to obtain statistics depending on the city, the month, and the day which will the data be filter on and it will return the popular time of travel, the popular stations, and the user info.
 
 ### Files used
-Include the files used
+There are 3 main files that contains datasets for different cities. The files are: 'chicago.csv', 'new_york_city.csv', and 'washington.csv'.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+The main reason to success in this project belong to Udacity and their reviewing team. Also, the help of this document https://pandas.pydata.org/docs/reference/series.html .
