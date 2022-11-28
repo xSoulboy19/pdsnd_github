@@ -186,7 +186,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
-        
+
         i = 0
         while True:
             raw_data = input('\nWould you like to see raw data? Enter yes or no.\n')
@@ -197,7 +197,6 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
-
 
 if __name__ == "__main__":
 	main()
