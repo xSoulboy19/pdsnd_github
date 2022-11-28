@@ -186,7 +186,6 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
-        print(df)
         
         i = 0
         while True:
